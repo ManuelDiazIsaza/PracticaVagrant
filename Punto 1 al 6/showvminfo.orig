@@ -1,0 +1,145 @@
+Name:                        manuel_default_1582689014245_86178
+Groups:                      /
+Guest OS:                    Ubuntu (64-bit)
+UUID:                        2ec567ed-fda5-4e1d-a826-10156eb6a10a
+Config file:                 /home/manuel/VirtualBox VMs/manuel_default_1582689014245_86178/manuel_default_1582689014245_86178.vbox
+Snapshot folder:             /home/manuel/VirtualBox VMs/manuel_default_1582689014245_86178/Snapshots
+Log folder:                  /home/manuel/VirtualBox VMs/manuel_default_1582689014245_86178/Logs
+Hardware UUID:               2ec567ed-fda5-4e1d-a826-10156eb6a10a
+Memory size                  1024MB
+Page Fusion:                 disabled
+VRAM size:                   16MB
+CPU exec cap:                100%
+HPET:                        disabled
+CPUProfile:                  host
+Chipset:                     piix3
+Firmware:                    BIOS
+Number of CPUs:              2
+PAE:                         enabled
+Long Mode:                   enabled
+Triple Fault Reset:          disabled
+APIC:                        enabled
+X2APIC:                      enabled
+Nested VT-x/AMD-V:           disabled
+CPUID Portability Level:     0
+CPUID overrides:             None
+Boot menu mode:              message and menu
+Boot Device 1:               Floppy
+Boot Device 2:               DVD
+Boot Device 3:               HardDisk
+Boot Device 4:               Not Assigned
+ACPI:                        enabled
+IOAPIC:                      enabled
+BIOS APIC mode:              APIC
+Time offset:                 0ms
+RTC:                         UTC
+Hardw. virt.ext:             enabled
+Nested Paging:               enabled
+Large Pages:                 disabled
+VT-x VPID:                   enabled
+VT-x unr. exec.:             enabled
+Paravirt. Provider:          Default
+Effective Paravirt. Prov.:   KVM
+State:                       running (since 2020-02-26T04:57:06.517000000)
+Monitor count:               1
+3D Acceleration:             disabled
+2D Video Acceleration:       disabled
+Teleporter Enabled:          disabled
+Teleporter Port:             0
+Teleporter Address:          
+Teleporter Password:         
+Tracing Enabled:             disabled
+Allow Tracing to Access VM:  disabled
+Tracing Configuration:       
+Autostart Enabled:           disabled
+Autostart Delay:             0
+Default Frontend:            
+Storage Controller Name (0):            IDE
+Storage Controller Type (0):            PIIX4
+Storage Controller Instance Number (0): 0
+Storage Controller Max Port Count (0):  2
+Storage Controller Port Count (0):      2
+Storage Controller Bootable (0):        on
+Storage Controller Name (1):            SCSI
+Storage Controller Type (1):            LsiLogic
+Storage Controller Instance Number (1): 0
+Storage Controller Max Port Count (1):  16
+Storage Controller Port Count (1):      16
+Storage Controller Bootable (1):        on
+SCSI (0, 0): /home/manuel/VirtualBox VMs/manuel_default_1582689014245_86178/ubuntu-xenial-16.04-cloudimg.vmdk (UUID: 773c405a-12d5-4f56-9338-f9b759f93971)
+SCSI (1, 0): /home/manuel/VirtualBox VMs/manuel_default_1582689014245_86178/ubuntu-xenial-16.04-cloudimg-configdrive.vmdk (UUID: da05e950-d6a3-4fdb-be2b-cf84ae9839a3)
+NIC 1:                       MAC: 0228E8E381D2, Attachment: NAT, Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 1 Settings:  MTU: 0, Socket (send: 64, receive: 64), TCP Window (send:64, receive: 64)
+NIC 1 Rule(0):   name = ssh, protocol = tcp, host ip = 127.0.0.1, host port = 2222, guest ip = , guest port = 22
+NIC 1 Rule(1):   name = tcp8000, protocol = tcp, host ip = , host port = 8000, guest ip = , guest port = 80
+NIC 2:                       MAC: 080027A8B3A3, Attachment: Host-only Interface 'vboxnet0', Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 3:                       MAC: 0800276BB070, Attachment: Bridged Interface 'wlp3s0', Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 4:                       disabled
+NIC 5:                       disabled
+NIC 6:                       disabled
+NIC 7:                       disabled
+NIC 8:                       disabled
+Pointing Device:             PS/2 Mouse
+Keyboard Device:             PS/2 Keyboard
+UART 1:                      I/O base: 0x03f8, IRQ: 4, attached to raw file '/home/manuel/ubuntu-xenial-16.04-cloudimg-console.log'
+, 16550A
+UART 2:                      disabled
+UART 3:                      disabled
+UART 4:                      disabled
+LPT 1:                       disabled
+LPT 2:                       disabled
+Audio:                       enabled (Driver: PulseAudio, Controller: AC97, Codec: STAC9700)
+Audio playback:              disabled
+Audio capture:               disabled
+Clipboard Mode:              disabled
+Drag and drop Mode:          disabled
+Session name:                headless
+Video mode:                  720x400x0 at 0,0 enabled
+VRDE:                        disabled
+OHCI USB:                    disabled
+EHCI USB:                    disabled
+xHCI USB:                    disabled
+
+USB Device Filters:
+
+<none>
+
+Available remote USB devices:
+
+<none>
+
+Currently Attached USB Devices:
+
+<none>
+
+Bandwidth groups:  <none>
+
+Shared folders:
+
+Name: 'vagrant', Host path: '/home/manuel' (machine mapping), writable
+
+VRDE Connection:             not active
+Clients so far:              0
+
+Capturing:                   not active
+Capture audio:               not active
+Capture screens:             
+Capture file:                /home/manuel/VirtualBox VMs/ubuntu-xenial-16.04-cloudimg-20200225_1582689008468_94654/ubuntu-xenial-16.04-cloudimg-20200225_1582689008468_94654.webm
+Capture dimensions:          1024x768
+Capture rate:                512kbps
+Capture FPS:                 25kbps
+Capture options:             
+
+Guest:
+
+Configured memory balloon size: 0MB
+OS type:                     Linux26_64
+Additions run level:         2
+Additions version            5.0.18_Ubuntu r106667
+
+Guest Facilities:
+
+Facility "VirtualBox Base Driver": active/running (last update: 2020/02/26 04:57:14 UTC)
+Facility "VirtualBox System Service": active/running (last update: 2020/02/26 04:57:17 UTC)
+Facility "Seamless Mode": not active (last update: 2020/02/26 04:57:14 UTC)
+Facility "Graphics Mode": not active (last update: 2020/02/26 04:57:14 UTC)
